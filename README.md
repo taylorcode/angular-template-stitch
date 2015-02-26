@@ -45,5 +45,7 @@ It allows us to use first.html or first.html as partials without having an extra
 
 See: [grunt-angular-template-stitch](https://github.com/taylorcode/grunt-angular-template-stitch)
 
-- 0.1.0 : initial version
+## Release History
+
+- 0.1.0 : first release, adapted from angular-combine
 

@@ -1,5 +1,5 @@
 {
-  "name": "angular-combine",
+  "name": "angular-template-stitch",
   "version": "0.1.4",
   "main": "src/angular-template-stitch.js",
   "description": "Allow loading of merge templates into a single HTML file.",
