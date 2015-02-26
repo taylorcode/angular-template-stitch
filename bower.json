@@ -1,0 +1,18 @@
+{
+  "name": "angular-combine",
+  "version": "0.1.4",
+  "main": "src/angular-template-stitch.js",
+  "description": "Allow loading of merge templates into a single HTML file.",
+  "keywords": [
+    "angular",
+    "template",
+    "stitch",
+    "performance",
+    "partials",
+    "$templateCache"
+  ],
+  "dependencies": {
+    "angular": "^1.2"
+  },
+  "license": "MIT"
+}
